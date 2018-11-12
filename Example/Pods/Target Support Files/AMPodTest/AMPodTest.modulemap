@@ -1,0 +1,6 @@
+framework module AMPodTest {
+  umbrella header "AMPodTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

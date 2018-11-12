@@ -7,6 +7,7 @@
 //
 
 #import "AMViewController.h"
+#import <AMPodTest/PodTest.h>
 
 @interface AMViewController ()
 
@@ -18,6 +19,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    [PodTest test];
 }
 
 - (void)didReceiveMemoryWarning

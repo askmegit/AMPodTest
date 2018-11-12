@@ -1,0 +1,22 @@
+{
+  "name": "AMPodTest",
+  "version": "0.1.0",
+  "summary": "简短的描述",
+  "description": "TODO: 较为详细的描述",
+  "homepage": "https://github.com/askmegit/AMPodTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "askmegit": "83076130@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/askmegit/AMPodTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AMPodTest/Classes/**/*"
+}
